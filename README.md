@@ -92,13 +92,15 @@ Also add `javafx-sdk/lib` to your build path or libraries.
 - Open `FXDatabaseInsert.java`
 - Right-click → Run as → JavaFX Application
 
+
 ---
 
-## 🖼️ Screenshots (Optional)
+## 📸 Application UI Preview
 
-```markdown
-![Main UI](Screenshot.png)
-```
+
+![Calculator Screenshot](./Screenshot.png)
+
+---
 
 Create a folder called `Screenshot.png` and add UI images there if needed.
 
