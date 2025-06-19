@@ -97,10 +97,10 @@ Also add `javafx-sdk/lib` to your build path or libraries.
 ## 🖼️ Screenshots (Optional)
 
 ```markdown
-![Main UI](screenshots/main-ui.png)
+![Main UI](Screenshot.png)
 ```
 
-Create a folder called `screenshots` and add UI images there if needed.
+Create a folder called `Screenshot.png` and add UI images there if needed.
 
 ---
 
